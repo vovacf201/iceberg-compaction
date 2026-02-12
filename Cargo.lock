@@ -2947,7 +2947,7 @@ dependencies = [
 [[package]]
 name = "iceberg"
 version = "0.7.0"
-source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=b0efc04b94cd6a8918d1f7342a5176a2878abb50#b0efc04b94cd6a8918d1f7342a5176a2878abb50"
+source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=918f3364229b5397ea63e436f6324cd75b3d0c8e#918f3364229b5397ea63e436f6324cd75b3d0c8e"
 dependencies = [
  "anyhow",
  "apache-avro",
@@ -3006,7 +3006,7 @@ dependencies = [
 [[package]]
 name = "iceberg-catalog-glue"
 version = "0.7.0"
-source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=b0efc04b94cd6a8918d1f7342a5176a2878abb50#b0efc04b94cd6a8918d1f7342a5176a2878abb50"
+source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=918f3364229b5397ea63e436f6324cd75b3d0c8e#918f3364229b5397ea63e436f6324cd75b3d0c8e"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -3021,7 +3021,7 @@ dependencies = [
 [[package]]
 name = "iceberg-catalog-rest"
 version = "0.7.0"
-source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=b0efc04b94cd6a8918d1f7342a5176a2878abb50#b0efc04b94cd6a8918d1f7342a5176a2878abb50"
+source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=918f3364229b5397ea63e436f6324cd75b3d0c8e#918f3364229b5397ea63e436f6324cd75b3d0c8e"
 dependencies = [
  "async-trait",
  "base64",
@@ -3108,7 +3108,7 @@ dependencies = [
 [[package]]
 name = "iceberg-datafusion"
 version = "0.7.0"
-source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=b0efc04b94cd6a8918d1f7342a5176a2878abb50#b0efc04b94cd6a8918d1f7342a5176a2878abb50"
+source = "git+https://github.com/vovacf201/iceberg-rust.git?rev=918f3364229b5397ea63e436f6324cd75b3d0c8e#918f3364229b5397ea63e436f6324cd75b3d0c8e"
 dependencies = [
  "anyhow",
  "async-trait",
