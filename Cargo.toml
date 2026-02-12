@@ -18,17 +18,17 @@ datafusion = "50"
 
 # Local workspace members
 futures = "0.3.17"
-iceberg = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "ad09004c765f198510f9937e671fde6a3d5c92f3", features = [
+iceberg = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "b0efc04b94cd6a8918d1f7342a5176a2878abb50", features = [
     "storage-s3",
     "storage-gcs",
     "storage-azblob",
     "storage-azdls",
 ] }
-iceberg-catalog-glue = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "ad09004c765f198510f9937e671fde6a3d5c92f3" }
-iceberg-catalog-memory = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "ad09004c765f198510f9937e671fde6a3d5c92f3" }
-iceberg-catalog-rest = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "ad09004c765f198510f9937e671fde6a3d5c92f3" }
+iceberg-catalog-glue = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "b0efc04b94cd6a8918d1f7342a5176a2878abb50" }
+iceberg-catalog-memory = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "b0efc04b94cd6a8918d1f7342a5176a2878abb50" }
+iceberg-catalog-rest = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "b0efc04b94cd6a8918d1f7342a5176a2878abb50" }
 iceberg-compaction-core = { path = "./core" }
-iceberg-datafusion = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "ad09004c765f198510f9937e671fde6a3d5c92f3" }
+iceberg-datafusion = { git = "https://github.com/vovacf201/iceberg-rust.git", rev = "b0efc04b94cd6a8918d1f7342a5176a2878abb50" }
 
 parquet = { version = "56.2", features = ["async"] }
 port_scanner = "0.1.5"
