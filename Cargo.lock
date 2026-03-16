@@ -2883,7 +2883,7 @@ dependencies = [
  "libc",
  "percent-encoding",
  "pin-project-lite",
- "socket2 0.6.1",
+ "socket2 0.5.9",
  "tokio",
  "tower-service",
  "tracing",
@@ -2916,7 +2916,7 @@ dependencies = [
 [[package]]
 name = "iceberg"
 version = "0.7.0"
-source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=bcf208d0f564d02785c58271818f2867818eeca6#bcf208d0f564d02785c58271818f2867818eeca6"
+source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=2e56dded5b07ab88813b285c4e09f2f66b7656d7#2e56dded5b07ab88813b285c4e09f2f66b7656d7"
 dependencies = [
  "anyhow",
  "apache-avro",
@@ -2975,7 +2975,7 @@ dependencies = [
 [[package]]
 name = "iceberg-catalog-glue"
 version = "0.7.0"
-source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=bcf208d0f564d02785c58271818f2867818eeca6#bcf208d0f564d02785c58271818f2867818eeca6"
+source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=2e56dded5b07ab88813b285c4e09f2f66b7656d7#2e56dded5b07ab88813b285c4e09f2f66b7656d7"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -2990,7 +2990,7 @@ dependencies = [
 [[package]]
 name = "iceberg-catalog-rest"
 version = "0.7.0"
-source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=bcf208d0f564d02785c58271818f2867818eeca6#bcf208d0f564d02785c58271818f2867818eeca6"
+source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=2e56dded5b07ab88813b285c4e09f2f66b7656d7#2e56dded5b07ab88813b285c4e09f2f66b7656d7"
 dependencies = [
  "async-trait",
  "base64 0.22.1",
@@ -3077,7 +3077,7 @@ dependencies = [
 [[package]]
 name = "iceberg-datafusion"
 version = "0.7.0"
-source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=bcf208d0f564d02785c58271818f2867818eeca6#bcf208d0f564d02785c58271818f2867818eeca6"
+source = "git+https://github.com/risingwavelabs/iceberg-rust.git?rev=2e56dded5b07ab88813b285c4e09f2f66b7656d7#2e56dded5b07ab88813b285c4e09f2f66b7656d7"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -6221,7 +6221,7 @@ version = "0.1.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cf221c93e13a30d793f7645a0e7762c55d169dbb0a49671918a2319d289b10bb"
 dependencies = [
- "windows-sys 0.48.0",
+ "windows-sys 0.59.0",
 ]
 
 [[package]]
