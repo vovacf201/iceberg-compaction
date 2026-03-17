@@ -2160,7 +2160,7 @@ mod tests {
         let tx = append_action.apply(transaction).unwrap();
         let updated_table = tx.commit(env.catalog.as_ref()).await.unwrap();
 
-        let small_file_threshold = 900u64;
+        let small_file_threshold = 1330u64;
         let planning_config = CompactionPlanningConfig::SmallFiles(
             SmallFilesConfigBuilder::default()
                 .small_file_threshold_bytes(small_file_threshold)
