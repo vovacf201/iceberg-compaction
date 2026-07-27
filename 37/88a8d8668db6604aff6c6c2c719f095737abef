@@ -1,0 +1,19 @@
+core/src/executor/datafusion/iceberg_file_task_scan.rs
+  s_5306e8a11082a9::t_450f2c9b36472c 392-410,416,602,1184-1256
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3788a8d8668db6604aff6c6c2c719f095737abef",
+  "prompts": {},
+  "sessions": {
+    "s_5306e8a11082a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bf2bebaffecL5EGAfPppS3QK",
+        "model": "claude-opus-5"
+      },
+      "human_author": "vovacf201 <volodymyr@cloudflare.com>"
+    }
+  }
+}
