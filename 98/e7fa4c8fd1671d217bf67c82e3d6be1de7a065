@@ -1,0 +1,21 @@
+Cargo.lock
+  s_5306e8a11082a9::t_65a572432ee738 2827,2886,2901,2987
+Cargo.toml
+  s_5306e8a11082a9::t_ab555819f8dc73 21-24,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "98e7fa4c8fd1671d217bf67c82e3d6be1de7a065",
+  "prompts": {},
+  "sessions": {
+    "s_5306e8a11082a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bf2bebaffecL5EGAfPppS3QK",
+        "model": "claude-opus-5"
+      },
+      "human_author": "vovacf201 <volodymyr@cloudflare.com>"
+    }
+  }
+}
