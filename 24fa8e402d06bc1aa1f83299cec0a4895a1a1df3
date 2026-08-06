@@ -1,0 +1,19 @@
+core/src/compaction/mod.rs
+  s_5306e8a11082a9::t_221d746e7dbc29 985-989,1000-1001,1019-1020
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "24fa8e402d06bc1aa1f83299cec0a4895a1a1df3",
+  "prompts": {},
+  "sessions": {
+    "s_5306e8a11082a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bf2bebaffecL5EGAfPppS3QK",
+        "model": "claude-opus-5"
+      },
+      "human_author": "vovacf201 <volodymyr@cloudflare.com>"
+    }
+  }
+}
