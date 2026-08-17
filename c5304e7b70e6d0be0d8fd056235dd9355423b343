@@ -1,0 +1,19 @@
+Cargo.lock
+  s_f99ea53ace3658::t_0a3f504ad288bf 2827,2886,2901,2987
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c5304e7b70e6d0be0d8fd056235dd9355423b343",
+  "prompts": {},
+  "sessions": {
+    "s_f99ea53ace3658": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0246a545affeMquRycJaYxD4db",
+        "model": "claude-opus-5"
+      },
+      "human_author": "volodymyr <volodymyr@cloudflare.com>"
+    }
+  }
+}
